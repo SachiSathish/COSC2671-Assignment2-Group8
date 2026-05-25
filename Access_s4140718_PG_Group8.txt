@@ -1,33 +1,13 @@
-COSC 2671 — Assignment 2 | Group 8
+COSC 2671/3047 — Assignment 2 | Group 8
 Access Demonstration File
 
 ================================================================
 REPOSITORY / SHARED DRIVE ACCESS
 ================================================================
 
-All code, data, and report files are available at:
+Code, data and worksheet are available at:
 
-[Paste your Google Drive / GitHub / OneDrive link here]
+[https://github.com/SachiSathish/COSC2671-Assignment2-Group8]
 
-Access type: View only (no sign-in required)
-             OR
-             Sign in with your RMIT email to access
-
-================================================================
-CONTENTS OF SHARED FOLDER
-================================================================
-
-/code/
-  - All 3 Jupyter notebooks (named as per submission guidelines)
-  - README.txt
-
-/data/
-  - mastodon_data_sample/ (sample of collected data)
-  - mastodon_data_clean/  (cleaned datasets)
-  - mastodon_data_network/ (network outputs)
-  - mastodon_data_nlp/    (NLP outputs)
-
-/report/
-  - SMNA_Assignment2_Group8_Report.pdf
-  - Worksheet_s4140718_PG_Group8.pdf
+Access type: Public
 
